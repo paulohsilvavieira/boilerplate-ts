@@ -1,5 +1,5 @@
 {
-  "name": "api-boilerplate",
+  "name": "boilerplate-ts",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -17,7 +17,7 @@
     "tsc-alias": "npx tsc-alias"
   },
   "keywords": [
-    "api-boilerplate"
+    "boilerplate-ts"
   ],
   "author": "paulo.hsilvavieira@gmail.com",
   "license": "ISC",
